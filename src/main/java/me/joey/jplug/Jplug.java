@@ -8,7 +8,7 @@ public final class Jplug extends JavaPlugin {
     @Override
     public void onEnable() {
         Bukkit.getLogger().info("[JPlug] Jplug has been enabled!");
-        Bukkit.broadcastMessage("hi i am nigga welcome to my gay server");
+        Bukkit.broadcastMessage("hello this is a testing server if you see this you are some how very gay");
     }
 
     @Override
