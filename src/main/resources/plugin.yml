@@ -1,0 +1,6 @@
+name: Jplug
+version: '${project.version}'
+main: me.joey.jplug.Jplug
+api-version: 1.17
+authors: [ Joeyface10, ntdi ]
+description: Jplug
